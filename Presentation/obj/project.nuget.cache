@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wFgrTArsYC9mvuYkhnjM9ASqAwUTlCLc08GGQzP+0vkHuMlugNDfy+gySzAgeHh0Bb85qO1Gp/lZNiK3rqC3pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalip\\RiderProjects\\ShopManagement\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
